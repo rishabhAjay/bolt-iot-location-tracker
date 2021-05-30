@@ -1,0 +1,4 @@
+TWILIO_ACCOUNT_SID=your twilio SID
+TWILIO_AUTH_TOKEN=your twilio auth token
+DEVICE_ID=your bolt device's name
+DEVICE_API=your bolt API key
