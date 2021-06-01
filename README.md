@@ -29,7 +29,7 @@
 
 
 
-<ol><li>VS Code(IDE): <a rel="noreferrer noopener" href="https://code.visualstudio.com/download" target="_blank">https://code.visualstudio.com/download</a></li><li>Node JS(Back-end language): <a rel="noreferrer noopener" href="https://nodejs.org/en/download/" target="_blank">https://nodejs.org/en/download/</a></li><li>Bolt API: <a rel="noreferrer noopener" href="https://docs.boltiot.com/docs/api-request-syntax" target="_blank">https://docs.boltiot.com/docs/api-request-syntax</a></li><li>Twilio(SMS service): <a rel="noreferrer noopener" href="https://www.twilio.com/login" target="_blank">https://www.twilio.com/login</a></li><li>Bootstrap(CSS framework): <a rel="noreferrer noopener" href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">https://getbootstrap.com/docs/5.0/getting-started/introduction/</a></li></ol>
+<ol><li>VS Code(IDE): <a rel="noreferrer noopener" href="https://code.visualstudio.com/download" target="_blank">https://code.visualstudio.com/download</a></li><li>Node JS(Back-end runtime environment): <a rel="noreferrer noopener" href="https://nodejs.org/en/download/" target="_blank">https://nodejs.org/en/download/</a></li><li>Bolt API: <a rel="noreferrer noopener" href="https://docs.boltiot.com/docs/api-request-syntax" target="_blank">https://docs.boltiot.com/docs/api-request-syntax</a></li><li>Twilio(SMS service): <a rel="noreferrer noopener" href="https://www.twilio.com/login" target="_blank">https://www.twilio.com/login</a></li><li>Bootstrap(CSS framework): <a rel="noreferrer noopener" href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">https://getbootstrap.com/docs/5.0/getting-started/introduction/</a></li></ol>
 
 
 
