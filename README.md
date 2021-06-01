@@ -180,7 +180,7 @@ DEVICE_API=Your Bolt API key
 
 
 <div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://projectsubmission.boltiot.com/wp-content/uploads/2021/03/Annotation-2021-03-31-125537-1024x486.png" alt="" class="wp-image-3931"/><figcaption>Device offline</figcaption></figure></div>
-
+<br>
 
 
 <ul><li>If it is online, you are redirected to a new page which asks you for the <strong>Twilio</strong> phone number and <strong>your</strong> number. You will be required to fill in <strong>all </strong>the details and <strong>check the radio button</strong>. The phone numbers should start with <strong>+17 and +91</strong> respectively.</li></ul>
